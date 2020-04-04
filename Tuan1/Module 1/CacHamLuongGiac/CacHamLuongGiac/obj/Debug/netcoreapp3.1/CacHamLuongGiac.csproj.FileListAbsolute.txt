@@ -1,0 +1,13 @@
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\netcoreapp3.1\CacHamLuongGiac.exe
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\netcoreapp3.1\CacHamLuongGiac.deps.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\netcoreapp3.1\CacHamLuongGiac.runtimeconfig.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\netcoreapp3.1\CacHamLuongGiac.runtimeconfig.dev.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\netcoreapp3.1\CacHamLuongGiac.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\bin\Debug\netcoreapp3.1\CacHamLuongGiac.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.csprojAssemblyReference.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.csproj.CoreCompileInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.AssemblyInfoInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.AssemblyInfo.cs
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\CacHamLuongGiac\CacHamLuongGiac\obj\Debug\netcoreapp3.1\CacHamLuongGiac.genruntimeconfig.cache

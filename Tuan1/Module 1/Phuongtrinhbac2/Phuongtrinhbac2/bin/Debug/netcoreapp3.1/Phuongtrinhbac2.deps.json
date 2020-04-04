@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Phuongtrinhbac2/1.0.0": {
+        "runtime": {
+          "Phuongtrinhbac2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phuongtrinhbac2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

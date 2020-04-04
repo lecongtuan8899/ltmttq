@@ -1,0 +1,13 @@
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.exe
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.deps.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.runtimeconfig.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.runtimeconfig.dev.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\bin\Debug\netcoreapp3.1\TinhDienTich.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.csprojAssemblyReference.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.csproj.CoreCompileInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.AssemblyInfoInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.AssemblyInfo.cs
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\TinhDienTich\TinhDienTich\obj\Debug\netcoreapp3.1\TinhDienTich.genruntimeconfig.cache

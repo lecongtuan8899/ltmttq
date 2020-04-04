@@ -1,0 +1,13 @@
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\bin\Debug\netcoreapp3.1\Phuongtrinhbac2.exe
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\bin\Debug\netcoreapp3.1\Phuongtrinhbac2.deps.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\bin\Debug\netcoreapp3.1\Phuongtrinhbac2.runtimeconfig.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\bin\Debug\netcoreapp3.1\Phuongtrinhbac2.runtimeconfig.dev.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\bin\Debug\netcoreapp3.1\Phuongtrinhbac2.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\bin\Debug\netcoreapp3.1\Phuongtrinhbac2.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.csprojAssemblyReference.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.csproj.CoreCompileInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.AssemblyInfoInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.AssemblyInfo.cs
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\Phuongtrinhbac2\Phuongtrinhbac2\obj\Debug\netcoreapp3.1\Phuongtrinhbac2.genruntimeconfig.cache

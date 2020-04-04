@@ -1,0 +1,13 @@
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\bin\Debug\netcoreapp3.1\BaiTapLoiChaonofix.exe
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\bin\Debug\netcoreapp3.1\BaiTapLoiChaonofix.deps.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\bin\Debug\netcoreapp3.1\BaiTapLoiChaonofix.runtimeconfig.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\bin\Debug\netcoreapp3.1\BaiTapLoiChaonofix.runtimeconfig.dev.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\bin\Debug\netcoreapp3.1\BaiTapLoiChaonofix.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\bin\Debug\netcoreapp3.1\BaiTapLoiChaonofix.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.csprojAssemblyReference.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.csproj.CoreCompileInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.AssemblyInfoInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.AssemblyInfo.cs
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\BaiTapLoiChaonofix\BaiTapLoiChaonofix\obj\Debug\netcoreapp3.1\BaiTapLoiChaonofix.genruntimeconfig.cache

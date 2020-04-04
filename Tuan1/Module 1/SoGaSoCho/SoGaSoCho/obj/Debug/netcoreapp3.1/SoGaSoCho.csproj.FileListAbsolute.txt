@@ -1,0 +1,13 @@
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\bin\Debug\netcoreapp3.1\SoGaSoCho.exe
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\bin\Debug\netcoreapp3.1\SoGaSoCho.deps.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\bin\Debug\netcoreapp3.1\SoGaSoCho.runtimeconfig.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\bin\Debug\netcoreapp3.1\SoGaSoCho.runtimeconfig.dev.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\bin\Debug\netcoreapp3.1\SoGaSoCho.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\bin\Debug\netcoreapp3.1\SoGaSoCho.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.csprojAssemblyReference.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.csproj.CoreCompileInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.AssemblyInfoInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.AssemblyInfo.cs
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\SoGaSoCho\SoGaSoCho\obj\Debug\netcoreapp3.1\SoGaSoCho.genruntimeconfig.cache

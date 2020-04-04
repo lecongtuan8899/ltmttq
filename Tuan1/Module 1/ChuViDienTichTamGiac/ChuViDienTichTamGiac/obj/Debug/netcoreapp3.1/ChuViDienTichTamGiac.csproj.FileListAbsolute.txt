@@ -1,0 +1,12 @@
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.exe
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.deps.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.runtimeconfig.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.runtimeconfig.dev.json
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\bin\Debug\netcoreapp3.1\ChuViDienTichTamGiac.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.csproj.CoreCompileInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.AssemblyInfoInputs.cache
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.AssemblyInfo.cs
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.dll
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.pdb
+D:\lập trình mttq\ltmttq1\BAI TAP\Module 1\ChuViDienTichTamGiac\ChuViDienTichTamGiac\obj\Debug\netcoreapp3.1\ChuViDienTichTamGiac.genruntimeconfig.cache
